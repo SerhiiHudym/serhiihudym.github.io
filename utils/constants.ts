@@ -1,4 +1,4 @@
-const NEW_YEAR_SONGS = [
+export const NEW_YEAR_SONGS = [
   "ABBA – Happy New Year",
   "All I Want For Christmas Is You",
   "All I Want For Christmas",
